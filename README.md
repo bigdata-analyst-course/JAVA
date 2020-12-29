@@ -10,9 +10,9 @@
 ***
 
 ## CH.02 변수와 타입
-* [변수](https://github.com/bigdata-analyst-course/JAVA/blob/main/CH01/variables.md)
-* [데이터 타입](https://github.com/bigdata-analyst-course/JAVA/blob/main/CH01/data_type.md)
-* [타입 변환](https://github.com/bigdata-analyst-course/JAVA/blob/main/CH01/data_conversion.md)
+* [변수](https://github.com/bigdata-analyst-course/JAVA/blob/main/CH02/variables.md)
+* [데이터 타입](https://github.com/bigdata-analyst-course/JAVA/blob/main/CH02/data_type.md)
+* [타입 변환](https://github.com/bigdata-analyst-course/JAVA/blob/main/CH02/data_conversion.md)
 
 ***
 
