@@ -11,7 +11,7 @@
 ## CH.02 변수와 타입
 * 변수
 * 데이터 타입
-* 타입 변환
+* [타입 변환](https://github.com/bigdata-analyst-course/JAVA/blob/variable/CH02/data_type.md)
 
 ***
 
