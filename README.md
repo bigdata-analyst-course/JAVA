@@ -33,10 +33,12 @@
 ***
 
 ## CH.05 참조 타입
-* [참조 타입]
+* [참조 타입](https://github.com/bigdata-analyst-course/JAVA/blob/main/CH05/reference_type.md)
+
 ***
 
 ## CH.06 클래스
+* [클래스](https://github.com/bigdata-analyst-course/JAVA/blob/main/CH06/class.md)
 ***
 
 ## CH.07 상속
