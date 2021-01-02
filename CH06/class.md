@@ -54,7 +54,6 @@
         객체의 동작이자 객체와 객체간의 통신 수단이다.
 
 # 클래스의 접근 제한자
-    <img src="https://hyuntaekhong.github.io/assets/images/java/java-basic14/access_modifier01.png" width="700" height="370">
 
     1. public : 접근 제한 X
 

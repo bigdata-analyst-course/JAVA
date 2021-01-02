@@ -42,6 +42,7 @@
 ***
 
 ## CH.07 상속
+* [상속](https://github.com/bigdata-analyst-course/JAVA/blob/main/CH07/inheritance.md)
 
 ***
 
