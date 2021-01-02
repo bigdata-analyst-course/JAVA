@@ -28,7 +28,7 @@
 
 ## CH.04 조건문과 반복문
 * [조건문(if문, switch문)]
-* [단항 연산자(for문, while문, do-while문]
+* [반복문(for문, while문, do-while문]
 
 ***
 
