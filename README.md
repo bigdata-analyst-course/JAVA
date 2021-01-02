@@ -47,6 +47,7 @@
 ***
 
 ## CH.08 인터페이스
+* [인터페이스](https://github.com/bigdata-analyst-course/JAVA/blob/main/CH08/interface.md)
 
 ***
 
