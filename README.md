@@ -20,9 +20,9 @@
 ***
 
 ## CH.03 연산자
-* [단항 연산자]
-* [이항 연산자]
-* [삼항 연산자]
+* [단항 연산자](https://github.com/bigdata-analyst-course/JAVA/blob/main/CH03/unary_operator.md)
+* [이항 연산자](https://github.com/bigdata-analyst-course/JAVA/blob/main/CH03/binary_operator.md)
+* [삼항 연산자](https://github.com/bigdata-analyst-course/JAVA/blob/main/CH03/ternary_operator.md)
 
 ***
 
