@@ -41,3 +41,17 @@
 
 
     ----신은빈----
+    
+데이터 타입: 
+
+값의 종류	기본 타입	메모리 사용 크기
+정수	byte	1 byte
+	char	2 byte
+	short	2 byte
+	int	4 byte
+	long 	8 byte
+실수	float	4 byte
+	double	8 byte
+논리		boolean	1 byte
+    
+    ----원지영----
